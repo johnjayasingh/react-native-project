@@ -1,0 +1,38 @@
+const tintColor = "#4991B7";
+const backgroundColor = "#002040";
+const secondaryBackgroundColor = "#194170";
+
+export default {
+  backgroundColor,
+  secondaryBackgroundColor,
+  tintColor,
+  transparent: "transparent",
+  tabIconDefault: "#A9A9A9",
+  labelColorToken: "#697696",
+  borderColor1: "#203853",
+  tabIconSelected: tintColor,
+  qrCodeBg: "#5683bf",
+  shadowColor: "#001E3C",
+  tabBar: "#fefefe",
+  modalBackground: "#00305E",
+  errorBackground: "red",
+  errorText: "#fff",
+  warningBackground: "#EAEB5E",
+  warningText: "#666804",
+  noticeBackground: tintColor,
+  noticeText: "#fff",
+  tabBarBackgroundColor: backgroundColor,
+  borderTopColor: backgroundColor,
+  pendingColor: "#F8A23C",
+  successColor: "#44E5B5",
+  failedColor: "#FE48E6",
+  buttonSendColor: "#FE48E6",
+  buttonReceiveColor: "#44E6B5",
+  inputLabel: "#8B9298",
+  textTintColor: "#4A91B7",
+  BTC: "#F8A23C",
+  ETH: "#5E8B57",
+  ETC: "#42E4B9",
+  BCH: "#E64444",
+  TOKEN: "#4A91B7",
+};
